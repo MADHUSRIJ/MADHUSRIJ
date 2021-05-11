@@ -1,4 +1,4 @@
-### Hola! MAdhusri here👋
+### Hola! Madhusri here👋
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Java Script
